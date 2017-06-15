@@ -1,8 +1,8 @@
 {
   "name": "@cross2d/react-web-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "![React Native Elements](http://i.imgur.com/Ok2KaWq.png) ## Cross Platform React Native UI Toolkit",
-  "main": "index.js",
+  "main": "src/index.js",
   "peerDependencies": {
     "react-native-vector-icons": "~4.0.0"
   },
