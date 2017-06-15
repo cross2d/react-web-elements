@@ -1,0 +1,26 @@
+{
+  "name": "@cross2d/react-web-elements",
+  "version": "1.0.0",
+  "description": "![React Native Elements](http://i.imgur.com/Ok2KaWq.png) ## Cross Platform React Native UI Toolkit",
+  "main": "index.js",
+  "peerDependencies": {
+    "react-native-vector-icons": "~4.0.0"
+  },
+  "dependencies": {
+    "react-native-side-menu": "^0.20.1",
+    "react-native-tab-navigator": "^0.3.3"
+  },
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-elements/issues"
+  },
+  "homepage": "https://github.com/cross2d/react-web-elements#readme"
+}
